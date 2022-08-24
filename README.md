@@ -1,6 +1,6 @@
-# planner_app
+# Planner_app
 
-A new Flutter project.
+A new Flutter project which can be used to track daily Personal Expenses.
 
 ## Getting Started
 

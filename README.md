@@ -2,15 +2,7 @@
 
 A new Flutter project which can be used to track daily Personal Expenses.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2022-12-23 at 21 34 56](https://user-images.githubusercontent.com/68125656/209365026-11c0abba-db5c-4a80-81a3-6c6fe2c5034d.jpeg)
+![WhatsApp Image 2022-12-23 at 21 34 57](https://user-images.githubusercontent.com/68125656/209365037-004874d4-5503-41b6-869c-8053ca68917c.jpeg)
+![WhatsApp Image 2022-12-23 at 21 34 58](https://user-images.githubusercontent.com/68125656/209365054-53c75c32-66b0-4f48-b691-029683130937.jpeg)
